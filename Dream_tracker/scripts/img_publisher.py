@@ -30,7 +30,7 @@ class ImagePublisherDetector(Node):
     self.cap = cv2.VideoCapture(0)
 
     
-    # self.cap = cv2.VideoCapture('/home/alejo/ros2_ws/src/parcialii/parcialii/pregrabado.mp4')
+    # self.cap = cv2.VideoCapture('/home/.../pregrabado.mp4')
     # self.cap = cv2.VideoCapture('../pregrabado.mp4')
    
     # Used to convert between ROS and OpenCV images
