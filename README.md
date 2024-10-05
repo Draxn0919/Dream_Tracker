@@ -1,7 +1,7 @@
 
 # Dream Tracker
 
-Dream Tracker es una aplicación de visión computacional diseñada para la detección de comportamientos relacionados con la fatiga y la somnolencia, como bostezos, microsueños y frecuencia de parpadeo. Utilizando OpenCV, Mediapipe Face Mesh y Python, el sistema monitorea en tiempo real las expresiones faciales para identificar patrones que podrían indicar que una persona está somnolienta o fatigada, lo que resulta especialmente útil en entornos de trabajo que requieren atención continua (por ejemplo, conductores o operadores de maquinaria).
+Dream Tracker es una aplicación de visión computacional diseñada para la detección de comportamientos relacionados con la fatiga y la somnolencia, como bostezos, microsueños y frecuencia de parpadeo. Utilizando OpenCV, Mediapipe Face Mesh y Python, el sistema monitorea en tiempo real las expresiones faciales para identificar patrones que podrían indicar que una persona está somnolienta o fatigada, lo que resulta especialmente útil en entornos de trabajo que requieren atención continua (por ejemplo, conductores u operadores de maquinaria).
 
 ![Python](https://img.shields.io/badge/Python-3.8-darkred.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5-darkblue.svg)
