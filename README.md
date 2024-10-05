@@ -123,4 +123,4 @@ Este proyecto está licenciado bajo la **Licencia MIT**. Consulta el archivo [LI
 
 - Github: [@Draxn0919](https://github.com/Draxn0919)
 - Email: danrivera505@gmail.com
-- linkedin: [Daniel Rivera](https://www.linkedin.com/in/daniel-rivera-yepes)
+- linkedin: [Daniel Rivera]([https://www.linkedin.com/in/daniel-rivera-yepes](https://www.linkedin.com/in/danrivera9/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BPo%2BUsKJARHyD%2Fzlapv2Lcw%3D%3D))
