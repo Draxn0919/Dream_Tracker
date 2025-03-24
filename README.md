@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/Draxn0919/Dream_Tracker.git
+git clone https://github.com/Draxn0919/Dream_Tracker
 cd Dream_Tracker
 ```
 2. Ejecuta el script principal:
